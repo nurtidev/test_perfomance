@@ -1,0 +1,74 @@
+{
+  "meps": [
+    {
+      "id": "mep0018",
+      "camera_id": 4553,
+      "location_id": 741,
+      "lat": 43.237604,
+      "lon": 76.934758
+    },
+    {
+      "id": "mep0011",
+      "camera_id": 1695,
+      "location_id": 334,
+      "lat": 43.235258,
+      "lon": 76.904510
+    },
+    {
+      "id": "mep0012",
+      "camera_id": 4571,
+      "location_id": 780,
+      "lat": 43.199581,
+      "lon": 76.894464
+    },
+    {
+      "id": "mep0013",
+      "camera_id": 1378,
+      "location_id": 285,
+      "lat": 43.203173,
+      "lon": 76.866910
+    },
+    {
+      "id": "mep0014",
+      "camera_id": 1724,
+      "location_id": 337,
+      "lat": 43.244170,
+      "lon": 76.915991
+    },
+    {
+      "id": "mep0015",
+      "camera_id": 420,
+      "location_id": 2,
+      "lat": 43.238362,
+      "lon": 76.889989
+    },
+    {
+      "id": "mep0016",
+      "camera_id": 3022,
+      "location_id": 317,
+      "lat": 43.246817,
+      "lon": 76.877159
+    },
+    {
+      "id": "mep0017",
+      "camera_id": 4429,
+      "location_id": 802,
+      "lat": 43.241658,
+      "lon": 76.937550
+    },
+    {
+      "id": "mep0010",
+      "camera_id": 5779,
+      "location_id": 781,
+      "lat": 43.214086,
+      "lon": 76.898003
+    },
+    {
+      "id": "mep0019",
+      "camera_id": 450,
+      "location_id": 9,
+      "lat": 43.212825,
+      "lon": 76.920813
+    }
+  ]
+}
